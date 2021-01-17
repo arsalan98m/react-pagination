@@ -58,7 +58,7 @@ function App() {
   return (
     <main>
       <div className="section-title">
-        <h1>{loading ? "loading..." : "github pagination project"}</h1>
+        <h1>{loading ? "loading..." : "pagination project"}</h1>
         <div className="underline"></div>
       </div>
 
